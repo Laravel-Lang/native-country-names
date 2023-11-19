@@ -23,7 +23,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 abstract class Processor
 {
-    protected string $sourceFile = __DIR__ . '/../../source/locales.json';
+    protected string $sourceFile = __DIR__ . '/../../source/countries.json';
 
     protected ?array $available = null;
 
