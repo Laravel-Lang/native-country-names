@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 8
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Bangladesh
 </td></tr>
 <tr><td width="50%">
 
-he
-
-</td><td width="50%">
-
-Israel
-
-</td></tr>
-<tr><td width="50%">
-
 ne
 
 </td><td width="50%">
@@ -55,15 +46,6 @@ si
 </td><td width="50%">
 
 Sri Lanka
-
-</td></tr>
-<tr><td width="50%">
-
-sr_Latn_ME
-
-</td><td width="50%">
-
-Montenegro
 
 </td></tr>
 <tr><td width="50%">

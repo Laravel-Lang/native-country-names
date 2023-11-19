@@ -4,12 +4,12 @@ editLink: false
 
 # tr
 
-##### All missed: 5
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,33 +28,6 @@ be
 </td><td width="50%">
 
 Belarus
-
-</td></tr>
-<tr><td width="50%">
-
-ne
-
-</td><td width="50%">
-
-Nepal
-
-</td></tr>
-<tr><td width="50%">
-
-si
-
-</td><td width="50%">
-
-Sri Lanka
-
-</td></tr>
-<tr><td width="50%">
-
-ur
-
-</td><td width="50%">
-
-Pakistan
 
 </td></tr>
 <tr><td width="50%">
