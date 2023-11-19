@@ -15,7 +15,7 @@
 
 declare(strict_types=1);
 
-use LaravelLang\Locales\Enums\Locale;
+use LaravelLang\LocaleList\Locale;
 use LaravelLang\NativeCountryNames\Native;
 
 it('checks if the enum matches the locale value', function (Locale $locale) {

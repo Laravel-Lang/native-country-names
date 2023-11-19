@@ -15,7 +15,7 @@
 
 declare(strict_types=1);
 
-use LaravelLang\Locales\Enums\Locale;
+use LaravelLang\LocaleList\Locale;
 use LaravelLang\NativeCountryNames\Enums\SortBy;
 use LaravelLang\NativeCountryNames\Helpers\Arr;
 use PHPUnit\Framework\Assert;
@@ -35,12 +35,11 @@ expect()->extend('toBeLocale', function (Locale|string $locale, SortBy $sortBy =
 expect()->extend('toBeCompileLocales', function (SortBy $sortBy = SortBy::Value) {
     $result = [];
 
-    foreach (Locale::values() as $value) {
-        $result[$value] = sourceLocale($value)[$value];
+    foreach ($this->value as $key => $value) {
+        $result[$key] = sourceLocale($key)[$key];
     }
 
     $this->toBe(Arr::sortBy($result, $sortBy));
 
     return $this;
-}
-);
+});
