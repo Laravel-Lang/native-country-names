@@ -4,12 +4,12 @@ editLink: false
 
 # fi
 
-##### All missed: 12
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 24
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,56 +23,83 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+bg
 
 </td><td width="50%">
 
-Afrikaans
+Bulgaria
 
 </td></tr>
 <tr><td width="50%">
 
-fil
+bn
 
 </td><td width="50%">
 
-Filipino
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
 
-hi
+fa
 
 </td><td width="50%">
 
-Hindi
+Iran
 
 </td></tr>
 <tr><td width="50%">
 
-km
+he
 
 </td><td width="50%">
 
-Khmer
+Israel
 
 </td></tr>
 <tr><td width="50%">
 
-kn
+hy
 
 </td><td width="50%">
 
-Kannada
+Armenia
 
 </td></tr>
 <tr><td width="50%">
 
-mr
+id
 
 </td><td width="50%">
 
-Marathi
+Indonesia
+
+</td></tr>
+<tr><td width="50%">
+
+ka
+
+</td><td width="50%">
+
+Georgia
+
+</td></tr>
+<tr><td width="50%">
+
+lv
+
+</td><td width="50%">
+
+Latvia
+
+</td></tr>
+<tr><td width="50%">
+
+mn
+
+</td><td width="50%">
+
+Mongolia
 
 </td></tr>
 <tr><td width="50%">
@@ -81,7 +108,16 @@ ne
 
 </td><td width="50%">
 
-Nepali
+Nepal
+
+</td></tr>
+<tr><td width="50%">
+
+ro
+
+</td><td width="50%">
+
+Romania
 
 </td></tr>
 <tr><td width="50%">
@@ -90,34 +126,70 @@ si
 
 </td><td width="50%">
 
-Sinhala
+Sri Lanka
 
 </td></tr>
 <tr><td width="50%">
 
-sw
+sk
 
 </td><td width="50%">
 
-Swahili
+Slovakia
 
 </td></tr>
 <tr><td width="50%">
 
-th
+sl
 
 </td><td width="50%">
 
-Thai
+Slovenia
 
 </td></tr>
 <tr><td width="50%">
 
-tl
+sq
 
 </td><td width="50%">
 
-Tagalog
+Albania
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Cyrl
+
+</td><td width="50%">
+
+Serbia
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn
+
+</td><td width="50%">
+
+Serbia
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn_ME
+
+</td><td width="50%">
+
+Montenegro
+
+</td></tr>
+<tr><td width="50%">
+
+tk
+
+</td><td width="50%">
+
+Turkmenistan
 
 </td></tr>
 <tr><td width="50%">
@@ -126,7 +198,43 @@ ur
 
 </td><td width="50%">
 
-Urdu
+Pakistan
+
+</td></tr>
+<tr><td width="50%">
+
+uz_Cyrl
+
+</td><td width="50%">
+
+Uzbekistan
+
+</td></tr>
+<tr><td width="50%">
+
+uz_Latn
+
+</td><td width="50%">
+
+Uzbekistan
+
+</td></tr>
+<tr><td width="50%">
+
+vi
+
+</td><td width="50%">
+
+Vietnam
+
+</td></tr>
+<tr><td width="50%">
+
+zh_TW
+
+</td><td width="50%">
+
+Taiwan
 
 </td></tr>
 </table>

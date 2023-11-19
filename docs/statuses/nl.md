@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 11
+##### All missed: 21
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 21
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,20 +23,38 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+be
 
 </td><td width="50%">
 
-Afrikaans
+Belarus
 
 </td></tr>
 <tr><td width="50%">
 
-cy
+bn
 
 </td><td width="50%">
 
-Welsh
+Bangladesh
+
+</td></tr>
+<tr><td width="50%">
+
+fa
+
+</td><td width="50%">
+
+Iran
+
+</td></tr>
+<tr><td width="50%">
+
+fi
+
+</td><td width="50%">
+
+Finland
 
 </td></tr>
 <tr><td width="50%">
@@ -45,7 +63,7 @@ gu
 
 </td><td width="50%">
 
-Gujarati
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -54,16 +72,16 @@ hi
 
 </td><td width="50%">
 
-Hindi
+India
 
 </td></tr>
 <tr><td width="50%">
 
-km
+ja
 
 </td><td width="50%">
 
-Khmer
+Japan
 
 </td></tr>
 <tr><td width="50%">
@@ -72,7 +90,7 @@ kn
 
 </td><td width="50%">
 
-Kannada
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -81,7 +99,43 @@ mr
 
 </td><td width="50%">
 
-Marathi
+India
+
+</td></tr>
+<tr><td width="50%">
+
+ne
+
+</td><td width="50%">
+
+Nepal
+
+</td></tr>
+<tr><td width="50%">
+
+ps
+
+</td><td width="50%">
+
+Afghanistan
+
+</td></tr>
+<tr><td width="50%">
+
+si
+
+</td><td width="50%">
+
+Sri Lanka
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn_ME
+
+</td><td width="50%">
+
+Montenegro
 
 </td></tr>
 <tr><td width="50%">
@@ -90,7 +144,7 @@ sw
 
 </td><td width="50%">
 
-Swahili
+Tanzania
 
 </td></tr>
 <tr><td width="50%">
@@ -99,16 +153,25 @@ th
 
 </td><td width="50%">
 
-Thai
+Thailand
 
 </td></tr>
 <tr><td width="50%">
 
-tl
+tk
 
 </td><td width="50%">
 
-Tagalog
+Turkmenistan
+
+</td></tr>
+<tr><td width="50%">
+
+ug
+
+</td><td width="50%">
+
+China
 
 </td></tr>
 <tr><td width="50%">
@@ -117,7 +180,34 @@ ur
 
 </td><td width="50%">
 
-Urdu
+Pakistan
+
+</td></tr>
+<tr><td width="50%">
+
+vi
+
+</td><td width="50%">
+
+Vietnam
+
+</td></tr>
+<tr><td width="50%">
+
+zh_CN
+
+</td><td width="50%">
+
+China
+
+</td></tr>
+<tr><td width="50%">
+
+zh_TW
+
+</td><td width="50%">
+
+Taiwan
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 10
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,47 +23,74 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+be
 
 </td><td width="50%">
 
-Afrikaans
+Belarus
 
 </td></tr>
 <tr><td width="50%">
 
-gu
+bn
 
 </td><td width="50%">
 
-Gujarati
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
 
-hi
+fa
 
 </td><td width="50%">
 
-Hindi
+Iran
 
 </td></tr>
 <tr><td width="50%">
 
-km
+fi
 
 </td><td width="50%">
 
-Khmer
+Finland
 
 </td></tr>
 <tr><td width="50%">
 
-kn
+he
 
 </td><td width="50%">
 
-Kannada
+Israel
+
+</td></tr>
+<tr><td width="50%">
+
+ja
+
+</td><td width="50%">
+
+Japan
+
+</td></tr>
+<tr><td width="50%">
+
+ms
+
+</td><td width="50%">
+
+Malaysia
+
+</td></tr>
+<tr><td width="50%">
+
+ne
+
+</td><td width="50%">
+
+Nepal
 
 </td></tr>
 <tr><td width="50%">
@@ -72,7 +99,25 @@ ps
 
 </td><td width="50%">
 
-Pashto
+Afghanistan
+
+</td></tr>
+<tr><td width="50%">
+
+si
+
+</td><td width="50%">
+
+Sri Lanka
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn_ME
+
+</td><td width="50%">
+
+Montenegro
 
 </td></tr>
 <tr><td width="50%">
@@ -81,7 +126,7 @@ sw
 
 </td><td width="50%">
 
-Swahili
+Tanzania
 
 </td></tr>
 <tr><td width="50%">
@@ -90,16 +135,25 @@ th
 
 </td><td width="50%">
 
-Thai
+Thailand
 
 </td></tr>
 <tr><td width="50%">
 
-tl
+tk
 
 </td><td width="50%">
 
-Tagalog
+Turkmenistan
+
+</td></tr>
+<tr><td width="50%">
+
+uk
+
+</td><td width="50%">
+
+Ukraine
 
 </td></tr>
 <tr><td width="50%">
@@ -108,7 +162,25 @@ ur
 
 </td><td width="50%">
 
-Urdu
+Pakistan
+
+</td></tr>
+<tr><td width="50%">
+
+vi
+
+</td><td width="50%">
+
+Vietnam
+
+</td></tr>
+<tr><td width="50%">
+
+zh_TW
+
+</td><td width="50%">
+
+Taiwan
 
 </td></tr>
 </table>

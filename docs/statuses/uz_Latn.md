@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 5
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,47 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+be
 
 </td><td width="50%">
 
-Afrikaans
+Belarus
 
 </td></tr>
 <tr><td width="50%">
 
-kn
+bn
 
 </td><td width="50%">
 
-Kannada
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
 
-ms
+ne
 
 </td><td width="50%">
 
-Malay
-
-</td></tr>
-<tr><td width="50%">
-
-tl
-
-</td><td width="50%">
-
-Tagalog
-
-</td></tr>
-<tr><td width="50%">
-
-ur
-
-</td><td width="50%">
-
-Urdu
+Nepal
 
 </td></tr>
 </table>

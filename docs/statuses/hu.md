@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 8
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,20 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+gu
 
 </td><td width="50%">
 
-Afrikaans
-
-</td></tr>
-<tr><td width="50%">
-
-bn
-
-</td><td width="50%">
-
-Bangla
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -45,16 +36,7 @@ hi
 
 </td><td width="50%">
 
-Hindi
-
-</td></tr>
-<tr><td width="50%">
-
-km
-
-</td><td width="50%">
-
-Khmer
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -63,34 +45,16 @@ kn
 
 </td><td width="50%">
 
-Kannada
+India
 
 </td></tr>
 <tr><td width="50%">
 
-th
+mr
 
 </td><td width="50%">
 
-Thai
-
-</td></tr>
-<tr><td width="50%">
-
-tl
-
-</td><td width="50%">
-
-Tagalog
-
-</td></tr>
-<tr><td width="50%">
-
-ur
-
-</td><td width="50%">
-
-Urdu
+India
 
 </td></tr>
 </table>

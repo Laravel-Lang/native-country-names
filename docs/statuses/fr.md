@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 12
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+bn
 
 </td><td width="50%">
 
-Afrikaans
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
 
-ca
+fa
 
 </td><td width="50%">
 
-Catalan
-
-</td></tr>
-<tr><td width="50%">
-
-eu
-
-</td><td width="50%">
-
-Basque
+Iran
 
 </td></tr>
 <tr><td width="50%">
@@ -54,16 +45,16 @@ fil
 
 </td><td width="50%">
 
-Filipino
+Philippines
 
 </td></tr>
 <tr><td width="50%">
 
-hi
+fr
 
 </td><td width="50%">
 
-Hindi
+France
 
 </td></tr>
 <tr><td width="50%">
@@ -72,34 +63,7 @@ kk
 
 </td><td width="50%">
 
-Kazakh
-
-</td></tr>
-<tr><td width="50%">
-
-km
-
-</td><td width="50%">
-
-Khmer
-
-</td></tr>
-<tr><td width="50%">
-
-kn
-
-</td><td width="50%">
-
-Kannada
-
-</td></tr>
-<tr><td width="50%">
-
-mr
-
-</td><td width="50%">
-
-Marathi
+Kazakhstan
 
 </td></tr>
 <tr><td width="50%">
@@ -108,16 +72,25 @@ oc
 
 </td><td width="50%">
 
-Occitan
+France
 
 </td></tr>
 <tr><td width="50%">
 
-sw
+ps
 
 </td><td width="50%">
 
-Swahili
+Afghanistan
+
+</td></tr>
+<tr><td width="50%">
+
+si
+
+</td><td width="50%">
+
+Sri Lanka
 
 </td></tr>
 <tr><td width="50%">
@@ -126,7 +99,25 @@ tl
 
 </td><td width="50%">
 
-Tagalog
+Philippines
+
+</td></tr>
+<tr><td width="50%">
+
+uk
+
+</td><td width="50%">
+
+Ukraine
+
+</td></tr>
+<tr><td width="50%">
+
+ur
+
+</td><td width="50%">
+
+Pakistan
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # sc
 
-##### All missed: 10
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,92 +23,56 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+bg
 
 </td><td width="50%">
 
-Afrikaans
+Bulgaria
 
 </td></tr>
 <tr><td width="50%">
 
-gu
+ro
 
 </td><td width="50%">
 
-Gujarati
+Romania
 
 </td></tr>
 <tr><td width="50%">
 
-hi
+si
 
 </td><td width="50%">
 
-Hindi
+Sri Lanka
 
 </td></tr>
 <tr><td width="50%">
 
-km
+sq
 
 </td><td width="50%">
 
-Khmer
+Albania
 
 </td></tr>
 <tr><td width="50%">
 
-kn
+sr_Latn_ME
 
 </td><td width="50%">
 
-Kannada
+Montenegro
 
 </td></tr>
 <tr><td width="50%">
 
-mr
+vi
 
 </td><td width="50%">
 
-Marathi
-
-</td></tr>
-<tr><td width="50%">
-
-ps
-
-</td><td width="50%">
-
-Pashto
-
-</td></tr>
-<tr><td width="50%">
-
-sw
-
-</td><td width="50%">
-
-Swahili
-
-</td></tr>
-<tr><td width="50%">
-
-tl
-
-</td><td width="50%">
-
-Tagalog
-
-</td></tr>
-<tr><td width="50%">
-
-ur
-
-</td><td width="50%">
-
-Urdu
+Vietnam
 
 </td></tr>
 </table>

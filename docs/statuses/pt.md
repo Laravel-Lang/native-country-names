@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 4
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,74 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-fil
+bn
 
 </td><td width="50%">
 
-Filipino
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
 
-km
+he
 
 </td><td width="50%">
 
-Khmer
+Israel
 
 </td></tr>
 <tr><td width="50%">
 
-ps
+ne
 
 </td><td width="50%">
 
-Pashto
+Nepal
 
 </td></tr>
 <tr><td width="50%">
 
-ur
+si
 
 </td><td width="50%">
 
-Urdu
+Sri Lanka
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn_ME
+
+</td><td width="50%">
+
+Montenegro
+
+</td></tr>
+<tr><td width="50%">
+
+ug
+
+</td><td width="50%">
+
+China
+
+</td></tr>
+<tr><td width="50%">
+
+zh_CN
+
+</td><td width="50%">
+
+China
+
+</td></tr>
+<tr><td width="50%">
+
+zh_TW
+
+</td><td width="50%">
+
+Taiwan
 
 </td></tr>
 </table>

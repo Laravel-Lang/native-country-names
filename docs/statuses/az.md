@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 7
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,56 +23,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+be
 
 </td><td width="50%">
 
-Afrikaans
+Belarus
 
 </td></tr>
 <tr><td width="50%">
 
-kn
+ne
 
 </td><td width="50%">
 
-Kannada
-
-</td></tr>
-<tr><td width="50%">
-
-mr
-
-</td><td width="50%">
-
-Marathi
-
-</td></tr>
-<tr><td width="50%">
-
-ms
-
-</td><td width="50%">
-
-Malay
-
-</td></tr>
-<tr><td width="50%">
-
-si
-
-</td><td width="50%">
-
-Sinhala
-
-</td></tr>
-<tr><td width="50%">
-
-sk
-
-</td><td width="50%">
-
-Slovak
+Nepal
 
 </td></tr>
 <tr><td width="50%">
@@ -81,7 +45,7 @@ ur
 
 </td><td width="50%">
 
-Urdu
+Pakistan
 
 </td></tr>
 </table>

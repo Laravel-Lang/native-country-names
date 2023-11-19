@@ -4,12 +4,12 @@ editLink: false
 
 # ca
 
-##### All missed: 9
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+bn
 
 </td><td width="50%">
 
-Afrikaans
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
 
-gu
+fa
 
 </td><td width="50%">
 
-Gujarati
+Iran
 
 </td></tr>
 <tr><td width="50%">
 
-hi
+he
 
 </td><td width="50%">
 
-Hindi
+Israel
 
 </td></tr>
 <tr><td width="50%">
@@ -54,34 +54,61 @@ kk
 
 </td><td width="50%">
 
-Kazakh
+Kazakhstan
 
 </td></tr>
 <tr><td width="50%">
 
-km
+ne
 
 </td><td width="50%">
 
-Khmer
+Nepal
 
 </td></tr>
 <tr><td width="50%">
 
-kn
+ro
 
 </td><td width="50%">
 
-Kannada
+Romania
 
 </td></tr>
 <tr><td width="50%">
 
-mr
+si
 
 </td><td width="50%">
 
-Marathi
+Sri Lanka
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn_ME
+
+</td><td width="50%">
+
+Montenegro
+
+</td></tr>
+<tr><td width="50%">
+
+tk
+
+</td><td width="50%">
+
+Turkmenistan
+
+</td></tr>
+<tr><td width="50%">
+
+ur
+
+</td><td width="50%">
+
+Pakistan
 
 </td></tr>
 <tr><td width="50%">
@@ -90,7 +117,7 @@ uz_Cyrl
 
 </td><td width="50%">
 
-Uzbek
+Uzbekistan
 
 </td></tr>
 <tr><td width="50%">
@@ -99,7 +126,25 @@ uz_Latn
 
 </td><td width="50%">
 
-Uzbek
+Uzbekistan
+
+</td></tr>
+<tr><td width="50%">
+
+vi
+
+</td><td width="50%">
+
+Vietnam
+
+</td></tr>
+<tr><td width="50%">
+
+zh_TW
+
+</td><td width="50%">
+
+Taiwan
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # gl
 
-##### All missed: 5
+##### All missed: 15
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,47 +23,137 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-af
+bg
 
 </td><td width="50%">
 
-Afrikaans
+Bulgaria
 
 </td></tr>
 <tr><td width="50%">
 
-fil
+bn
 
 </td><td width="50%">
 
-Filipino
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
 
-hi
+et
 
 </td><td width="50%">
 
-Hindi
+Estonia
 
 </td></tr>
 <tr><td width="50%">
 
-km
+he
 
 </td><td width="50%">
 
-Khmer
+Israel
 
 </td></tr>
 <tr><td width="50%">
 
-mr
+hy
 
 </td><td width="50%">
 
-Marathi
+Armenia
+
+</td></tr>
+<tr><td width="50%">
+
+id
+
+</td><td width="50%">
+
+Indonesia
+
+</td></tr>
+<tr><td width="50%">
+
+mn
+
+</td><td width="50%">
+
+Mongolia
+
+</td></tr>
+<tr><td width="50%">
+
+ne
+
+</td><td width="50%">
+
+Nepal
+
+</td></tr>
+<tr><td width="50%">
+
+si
+
+</td><td width="50%">
+
+Sri Lanka
+
+</td></tr>
+<tr><td width="50%">
+
+sq
+
+</td><td width="50%">
+
+Albania
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Cyrl
+
+</td><td width="50%">
+
+Serbia
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn
+
+</td><td width="50%">
+
+Serbia
+
+</td></tr>
+<tr><td width="50%">
+
+sr_Latn_ME
+
+</td><td width="50%">
+
+Montenegro
+
+</td></tr>
+<tr><td width="50%">
+
+sw
+
+</td><td width="50%">
+
+Tanzania
+
+</td></tr>
+<tr><td width="50%">
+
+vi
+
+</td><td width="50%">
+
+Vietnam
 
 </td></tr>
 </table>

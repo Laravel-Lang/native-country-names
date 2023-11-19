@@ -27,7 +27,7 @@ af
 
 </td><td width="50%">
 
-Afrikaans
+South Africa
 
 </td></tr>
 <tr><td width="50%">
@@ -36,7 +36,7 @@ ar
 
 </td><td width="50%">
 
-Arabic
+Egypt
 
 </td></tr>
 <tr><td width="50%">
@@ -45,7 +45,7 @@ az
 
 </td><td width="50%">
 
-Azerbaijani
+Azerbaijan
 
 </td></tr>
 <tr><td width="50%">
@@ -54,7 +54,7 @@ be
 
 </td><td width="50%">
 
-Belarusian
+Belarus
 
 </td></tr>
 <tr><td width="50%">
@@ -63,7 +63,7 @@ bg
 
 </td><td width="50%">
 
-Bulgarian
+Bulgaria
 
 </td></tr>
 <tr><td width="50%">
@@ -72,7 +72,7 @@ bn
 
 </td><td width="50%">
 
-Bangla
+Bangladesh
 
 </td></tr>
 <tr><td width="50%">
@@ -81,7 +81,7 @@ bs
 
 </td><td width="50%">
 
-Bosnian
+Bosnia & Herzegovina
 
 </td></tr>
 <tr><td width="50%">
@@ -90,7 +90,7 @@ ca
 
 </td><td width="50%">
 
-Catalan
+Spain
 
 </td></tr>
 <tr><td width="50%">
@@ -99,7 +99,7 @@ cs
 
 </td><td width="50%">
 
-Czech
+Czechia
 
 </td></tr>
 <tr><td width="50%">
@@ -108,7 +108,7 @@ cy
 
 </td><td width="50%">
 
-Welsh
+United Kingdom
 
 </td></tr>
 <tr><td width="50%">
@@ -117,7 +117,7 @@ da
 
 </td><td width="50%">
 
-Danish
+Denmark
 
 </td></tr>
 <tr><td width="50%">
@@ -126,7 +126,7 @@ de
 
 </td><td width="50%">
 
-German
+Germany
 
 </td></tr>
 <tr><td width="50%">
@@ -135,7 +135,7 @@ de_CH
 
 </td><td width="50%">
 
-German (Switzerland)
+Switzerland
 
 </td></tr>
 <tr><td width="50%">
@@ -144,7 +144,7 @@ el
 
 </td><td width="50%">
 
-Greek
+Greece
 
 </td></tr>
 <tr><td width="50%">
@@ -153,7 +153,7 @@ en
 
 </td><td width="50%">
 
-English
+United States
 
 </td></tr>
 <tr><td width="50%">
@@ -162,7 +162,7 @@ es
 
 </td><td width="50%">
 
-Spanish
+Spain
 
 </td></tr>
 <tr><td width="50%">
@@ -171,7 +171,7 @@ et
 
 </td><td width="50%">
 
-Estonian
+Estonia
 
 </td></tr>
 <tr><td width="50%">
@@ -180,7 +180,7 @@ eu
 
 </td><td width="50%">
 
-Basque
+Spain
 
 </td></tr>
 <tr><td width="50%">
@@ -189,7 +189,7 @@ fa
 
 </td><td width="50%">
 
-Persian
+Iran
 
 </td></tr>
 <tr><td width="50%">
@@ -198,7 +198,7 @@ fi
 
 </td><td width="50%">
 
-Finnish
+Finland
 
 </td></tr>
 <tr><td width="50%">
@@ -207,7 +207,7 @@ fil
 
 </td><td width="50%">
 
-Filipino
+Philippines
 
 </td></tr>
 <tr><td width="50%">
@@ -216,7 +216,7 @@ fr
 
 </td><td width="50%">
 
-French
+France
 
 </td></tr>
 <tr><td width="50%">
@@ -225,7 +225,7 @@ gl
 
 </td><td width="50%">
 
-Galician
+Spain
 
 </td></tr>
 <tr><td width="50%">
@@ -234,7 +234,7 @@ gu
 
 </td><td width="50%">
 
-Gujarati
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -243,7 +243,7 @@ he
 
 </td><td width="50%">
 
-Hebrew
+Israel
 
 </td></tr>
 <tr><td width="50%">
@@ -252,7 +252,7 @@ hi
 
 </td><td width="50%">
 
-Hindi
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -261,7 +261,7 @@ hr
 
 </td><td width="50%">
 
-Croatian
+Croatia
 
 </td></tr>
 <tr><td width="50%">
@@ -270,7 +270,7 @@ hu
 
 </td><td width="50%">
 
-Hungarian
+Hungary
 
 </td></tr>
 <tr><td width="50%">
@@ -279,7 +279,7 @@ hy
 
 </td><td width="50%">
 
-Armenian
+Armenia
 
 </td></tr>
 <tr><td width="50%">
@@ -288,7 +288,7 @@ id
 
 </td><td width="50%">
 
-Indonesian
+Indonesia
 
 </td></tr>
 <tr><td width="50%">
@@ -297,7 +297,7 @@ is
 
 </td><td width="50%">
 
-Icelandic
+Iceland
 
 </td></tr>
 <tr><td width="50%">
@@ -306,7 +306,7 @@ it
 
 </td><td width="50%">
 
-Italian
+Italy
 
 </td></tr>
 <tr><td width="50%">
@@ -315,7 +315,7 @@ ja
 
 </td><td width="50%">
 
-Japanese
+Japan
 
 </td></tr>
 <tr><td width="50%">
@@ -324,7 +324,7 @@ ka
 
 </td><td width="50%">
 
-Georgian
+Georgia
 
 </td></tr>
 <tr><td width="50%">
@@ -333,7 +333,7 @@ kk
 
 </td><td width="50%">
 
-Kazakh
+Kazakhstan
 
 </td></tr>
 <tr><td width="50%">
@@ -342,7 +342,7 @@ km
 
 </td><td width="50%">
 
-Khmer
+Cambodia
 
 </td></tr>
 <tr><td width="50%">
@@ -351,7 +351,7 @@ kn
 
 </td><td width="50%">
 
-Kannada
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -360,7 +360,7 @@ ko
 
 </td><td width="50%">
 
-Korean
+South Korea
 
 </td></tr>
 <tr><td width="50%">
@@ -369,7 +369,7 @@ lt
 
 </td><td width="50%">
 
-Lithuanian
+Lithuania
 
 </td></tr>
 <tr><td width="50%">
@@ -378,7 +378,7 @@ lv
 
 </td><td width="50%">
 
-Latvian
+Latvia
 
 </td></tr>
 <tr><td width="50%">
@@ -387,7 +387,7 @@ mk
 
 </td><td width="50%">
 
-Macedonian
+North Macedonia
 
 </td></tr>
 <tr><td width="50%">
@@ -396,7 +396,7 @@ mn
 
 </td><td width="50%">
 
-Mongolian
+Mongolia
 
 </td></tr>
 <tr><td width="50%">
@@ -405,7 +405,7 @@ mr
 
 </td><td width="50%">
 
-Marathi
+India
 
 </td></tr>
 <tr><td width="50%">
@@ -414,7 +414,7 @@ ms
 
 </td><td width="50%">
 
-Malay
+Malaysia
 
 </td></tr>
 <tr><td width="50%">
@@ -423,7 +423,7 @@ nb
 
 </td><td width="50%">
 
-Norwegian Bokmål
+Norway
 
 </td></tr>
 <tr><td width="50%">
@@ -432,7 +432,7 @@ ne
 
 </td><td width="50%">
 
-Nepali
+Nepal
 
 </td></tr>
 <tr><td width="50%">
@@ -441,7 +441,7 @@ nl
 
 </td><td width="50%">
 
-Dutch
+Netherlands
 
 </td></tr>
 <tr><td width="50%">
@@ -450,7 +450,7 @@ nn
 
 </td><td width="50%">
 
-Norwegian Nynorsk
+Norway
 
 </td></tr>
 <tr><td width="50%">
@@ -459,7 +459,7 @@ oc
 
 </td><td width="50%">
 
-Occitan
+France
 
 </td></tr>
 <tr><td width="50%">
@@ -468,7 +468,7 @@ pl
 
 </td><td width="50%">
 
-Polish
+Poland
 
 </td></tr>
 <tr><td width="50%">
@@ -477,7 +477,7 @@ ps
 
 </td><td width="50%">
 
-Pashto
+Afghanistan
 
 </td></tr>
 <tr><td width="50%">
@@ -486,7 +486,7 @@ pt
 
 </td><td width="50%">
 
-Portuguese
+Brazil
 
 </td></tr>
 <tr><td width="50%">
@@ -495,7 +495,7 @@ pt_BR
 
 </td><td width="50%">
 
-Portuguese (Brazil)
+Brazil
 
 </td></tr>
 <tr><td width="50%">
@@ -504,7 +504,7 @@ ro
 
 </td><td width="50%">
 
-Romanian
+Romania
 
 </td></tr>
 <tr><td width="50%">
@@ -513,7 +513,7 @@ ru
 
 </td><td width="50%">
 
-Russian
+Russia
 
 </td></tr>
 <tr><td width="50%">
@@ -522,7 +522,7 @@ sc
 
 </td><td width="50%">
 
-Sardinian
+Italy
 
 </td></tr>
 <tr><td width="50%">
@@ -531,7 +531,7 @@ si
 
 </td><td width="50%">
 
-Sinhala
+Sri Lanka
 
 </td></tr>
 <tr><td width="50%">
@@ -540,7 +540,7 @@ sk
 
 </td><td width="50%">
 
-Slovak
+Slovakia
 
 </td></tr>
 <tr><td width="50%">
@@ -549,7 +549,7 @@ sl
 
 </td><td width="50%">
 
-Slovenian
+Slovenia
 
 </td></tr>
 <tr><td width="50%">
@@ -558,7 +558,7 @@ sq
 
 </td><td width="50%">
 
-Albanian
+Albania
 
 </td></tr>
 <tr><td width="50%">
@@ -567,7 +567,7 @@ sr_Cyrl
 
 </td><td width="50%">
 
-Serbian
+Serbia
 
 </td></tr>
 <tr><td width="50%">
@@ -576,7 +576,7 @@ sr_Latn
 
 </td><td width="50%">
 
-Serbian
+Serbia
 
 </td></tr>
 <tr><td width="50%">
@@ -585,7 +585,7 @@ sr_Latn_ME
 
 </td><td width="50%">
 
-Serbian (Montenegro)
+Montenegro
 
 </td></tr>
 <tr><td width="50%">
@@ -594,7 +594,7 @@ sv
 
 </td><td width="50%">
 
-Swedish
+Sweden
 
 </td></tr>
 <tr><td width="50%">
@@ -603,7 +603,7 @@ sw
 
 </td><td width="50%">
 
-Swahili
+Tanzania
 
 </td></tr>
 <tr><td width="50%">
@@ -612,7 +612,7 @@ tg
 
 </td><td width="50%">
 
-Tajik
+Tajikistan
 
 </td></tr>
 <tr><td width="50%">
@@ -621,7 +621,7 @@ th
 
 </td><td width="50%">
 
-Thai
+Thailand
 
 </td></tr>
 <tr><td width="50%">
@@ -630,7 +630,7 @@ tk
 
 </td><td width="50%">
 
-Turkmen
+Turkmenistan
 
 </td></tr>
 <tr><td width="50%">
@@ -639,7 +639,7 @@ tl
 
 </td><td width="50%">
 
-Tagalog
+Philippines
 
 </td></tr>
 <tr><td width="50%">
@@ -648,7 +648,7 @@ tr
 
 </td><td width="50%">
 
-Turkish
+Turkey
 
 </td></tr>
 <tr><td width="50%">
@@ -657,7 +657,7 @@ ug
 
 </td><td width="50%">
 
-Uyghur
+China
 
 </td></tr>
 <tr><td width="50%">
@@ -666,7 +666,7 @@ uk
 
 </td><td width="50%">
 
-Ukrainian
+Ukraine
 
 </td></tr>
 <tr><td width="50%">
@@ -675,7 +675,7 @@ ur
 
 </td><td width="50%">
 
-Urdu
+Pakistan
 
 </td></tr>
 <tr><td width="50%">
@@ -684,7 +684,7 @@ uz_Cyrl
 
 </td><td width="50%">
 
-Uzbek
+Uzbekistan
 
 </td></tr>
 <tr><td width="50%">
@@ -693,7 +693,7 @@ uz_Latn
 
 </td><td width="50%">
 
-Uzbek
+Uzbekistan
 
 </td></tr>
 <tr><td width="50%">
@@ -702,7 +702,7 @@ vi
 
 </td><td width="50%">
 
-Vietnamese
+Vietnam
 
 </td></tr>
 <tr><td width="50%">
@@ -711,7 +711,7 @@ zh_CN
 
 </td><td width="50%">
 
-Chinese (China)
+China
 
 </td></tr>
 <tr><td width="50%">
@@ -720,7 +720,7 @@ zh_HK
 
 </td><td width="50%">
 
-Chinese (Hong Kong Sar China)
+Hong Kong Sar China
 
 </td></tr>
 <tr><td width="50%">
@@ -729,7 +729,7 @@ zh_TW
 
 </td><td width="50%">
 
-Chinese (Taiwan)
+Taiwan
 
 </td></tr>
 </table>
