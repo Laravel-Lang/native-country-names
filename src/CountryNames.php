@@ -48,7 +48,7 @@ class CountryNames
         return collect(static::load(static::path($locale)))
             ->when($sortBy === SortBy::Key, fn (Collection $items) => $items->sortKeys())
             ->when($sortBy === SortBy::Value, fn (Collection $items) => $items->sortBy('name'))
-            ->map(fn (array $item) => new CountryData($item['code'], $item['name']));
+            ->map(fn (array $item) => new CountryData($item['code'], $item['native'], $item['localized']));
     }
 
     protected static function load(string $path): array

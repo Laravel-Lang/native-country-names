@@ -17,23 +17,23 @@ declare(strict_types=1);
 
 namespace LaravelLang\NativeCountryNames\Data;
 
-use DragonCode\Support\Facades\Helpers\Str;
 use Illuminate\Contracts\Support\Arrayable;
 
 class CountryData implements Arrayable
 {
     public function __construct(
         public string $code,
-        public string $name
-    ) {
-        $this->name = Str::title($this->name);
-    }
+        public string $nativeName,
+        public string $localizedName
+    ) {}
 
     public function toArray(): array
     {
         return [
             'code' => $this->code,
-            'name' => $this->name,
+
+            'native'    => $this->nativeName,
+            'localized' => $this->localizedName,
         ];
     }
 }
