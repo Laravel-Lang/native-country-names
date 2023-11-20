@@ -23,17 +23,16 @@ class CountryData implements Arrayable
 {
     public function __construct(
         public string $code,
-        public string $nativeName,
-        public string $localizedName
+        public string $native,
+        public string $localized
     ) {}
 
     public function toArray(): array
     {
         return [
-            'code' => $this->code,
-
-            'native'    => $this->nativeName,
-            'localized' => $this->localizedName,
+            'code'      => $this->code,
+            'native'    => $this->native,
+            'localized' => $this->localized,
         ];
     }
 }
