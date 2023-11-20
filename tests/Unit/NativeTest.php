@@ -29,312 +29,312 @@ it('should not be a clone of the English version')
 it('should check the returned list in French')
     ->expect(fn () => flatten(CountryNames::get(Locale::French, SortBy::Key)))
     ->toBe([
-        'af'         => [
+        'af' => [
             'code'      => 'ZA',
             'native'    => 'Suid-Afrika',
             'localized' => 'Afrique Du Sud',
         ],
-        'ar'         => [
+        'ar' => [
             'code'      => 'EG',
             'native'    => 'مصر',
             'localized' => 'Égypte',
         ],
-        'az'         => [
+        'az' => [
             'code'      => 'AZ',
             'native'    => 'Azərbaycan',
             'localized' => 'Azerbaïdjan',
         ],
-        'be'         => [
+        'be' => [
             'code'      => 'BY',
             'native'    => 'Беларусь',
             'localized' => 'Biélorussie',
         ],
-        'bg'         => [
+        'bg' => [
             'code'      => 'BG',
             'native'    => 'България',
             'localized' => 'Bulgarie',
         ],
-        'bn'         => [
+        'bn' => [
             'code'      => 'BD',
             'native'    => 'বাংলাদেশ',
             'localized' => 'Bangladesh',
         ],
-        'bs'         => [
+        'bs' => [
             'code'      => 'BA',
             'native'    => 'Bosna I Hercegovina',
             'localized' => 'Bosnie-Herzégovine',
         ],
-        'ca'         => [
+        'ca' => [
             'code'      => 'ES',
             'native'    => 'Espanya',
             'localized' => 'Espagne',
         ],
-        'cs'         => [
+        'cs' => [
             'code'      => 'CZ',
             'native'    => 'Česko',
             'localized' => 'Tchéquie',
         ],
-        'cy'         => [
+        'cy' => [
             'code'      => 'GB',
             'native'    => 'Y Deyrnas Unedig',
             'localized' => 'Royaume-Uni',
         ],
-        'da'         => [
+        'da' => [
             'code'      => 'DK',
             'native'    => 'Danmark',
             'localized' => 'Danemark',
         ],
-        'de'         => [
+        'de' => [
             'code'      => 'DE',
             'native'    => 'Deutschland',
             'localized' => 'Allemagne',
         ],
-        'de_CH'      => [
+        'de_CH' => [
             'code'      => 'CH',
             'native'    => 'Schweiz',
             'localized' => 'Suisse',
         ],
-        'el'         => [
+        'el' => [
             'code'      => 'GR',
             'native'    => 'Ελλάδα',
             'localized' => 'Grèce',
         ],
-        'en'         => [
+        'en' => [
             'code'      => 'US',
             'native'    => 'United States',
             'localized' => 'États-Unis',
         ],
-        'es'         => [
+        'es' => [
             'code'      => 'ES',
             'native'    => 'España',
             'localized' => 'Espagne',
         ],
-        'et'         => [
+        'et' => [
             'code'      => 'EE',
             'native'    => 'Eesti',
             'localized' => 'Estonie',
         ],
-        'eu'         => [
+        'eu' => [
             'code'      => 'ES',
             'native'    => 'Espainia',
             'localized' => 'Espagne',
         ],
-        'fa'         => [
+        'fa' => [
             'code'      => 'IR',
             'native'    => 'ایران',
             'localized' => 'Iran',
         ],
-        'fi'         => [
+        'fi' => [
             'code'      => 'FI',
             'native'    => 'Suomi',
             'localized' => 'Finlande',
         ],
-        'fil'        => [
+        'fil' => [
             'code'      => 'PH',
             'native'    => 'Pilipinas',
             'localized' => 'Philippines',
         ],
-        'fr'         => [
+        'fr' => [
             'code'      => 'FR',
             'native'    => 'France',
             'localized' => 'France',
         ],
-        'gl'         => [
+        'gl' => [
             'code'      => 'ES',
             'native'    => 'España',
             'localized' => 'Espagne',
         ],
-        'gu'         => [
+        'gu' => [
             'code'      => 'IN',
             'native'    => 'ભારત',
             'localized' => 'Inde',
         ],
-        'he'         => [
+        'he' => [
             'code'      => 'IL',
             'native'    => 'ישראל',
             'localized' => 'Israël',
         ],
-        'hi'         => [
+        'hi' => [
             'code'      => 'IN',
             'native'    => 'भारत',
             'localized' => 'Inde',
         ],
-        'hr'         => [
+        'hr' => [
             'code'      => 'HR',
             'native'    => 'Hrvatska',
             'localized' => 'Croatie',
         ],
-        'hu'         => [
+        'hu' => [
             'code'      => 'HU',
             'native'    => 'Magyarország',
             'localized' => 'Hongrie',
         ],
-        'hy'         => [
+        'hy' => [
             'code'      => 'AM',
             'native'    => 'Հայաստան',
             'localized' => 'Arménie',
         ],
-        'id'         => [
+        'id' => [
             'code'      => 'ID',
             'native'    => 'Indonesia',
             'localized' => 'Indonésie',
         ],
-        'is'         => [
+        'is' => [
             'code'      => 'IS',
             'native'    => 'Ísland',
             'localized' => 'Islande',
         ],
-        'it'         => [
+        'it' => [
             'code'      => 'IT',
             'native'    => 'Italia',
             'localized' => 'Italie',
         ],
-        'ja'         => [
+        'ja' => [
             'code'      => 'JP',
             'native'    => '日本',
             'localized' => 'Japon',
         ],
-        'ka'         => [
+        'ka' => [
             'code'      => 'GE',
             'native'    => 'საქართველო',
             'localized' => 'Géorgie',
         ],
-        'kk'         => [
+        'kk' => [
             'code'      => 'KZ',
             'native'    => 'Қазақстан',
             'localized' => 'Kazakhstan',
         ],
-        'km'         => [
+        'km' => [
             'code'      => 'KH',
             'native'    => 'កម្ពុជា',
             'localized' => 'Cambodge',
         ],
-        'kn'         => [
+        'kn' => [
             'code'      => 'IN',
             'native'    => 'ಭಾರತ',
             'localized' => 'Inde',
         ],
-        'ko'         => [
+        'ko' => [
             'code'      => 'KR',
             'native'    => '대한민국',
             'localized' => 'Corée Du Sud',
         ],
-        'lt'         => [
+        'lt' => [
             'code'      => 'LT',
             'native'    => 'Lietuva',
             'localized' => 'Lituanie',
         ],
-        'lv'         => [
+        'lv' => [
             'code'      => 'LV',
             'native'    => 'Latvija',
             'localized' => 'Lettonie',
         ],
-        'mk'         => [
+        'mk' => [
             'code'      => 'MK',
             'native'    => 'Северна Македонија',
             'localized' => 'Macédoine Du Nord',
         ],
-        'mn'         => [
+        'mn' => [
             'code'      => 'MN',
             'native'    => 'Монгол',
             'localized' => 'Mongolie',
         ],
-        'mr'         => [
+        'mr' => [
             'code'      => 'IN',
             'native'    => 'भारत',
             'localized' => 'Inde',
         ],
-        'ms'         => [
+        'ms' => [
             'code'      => 'MY',
             'native'    => 'Malaysia',
             'localized' => 'Malaisie',
         ],
-        'nb'         => [
+        'nb' => [
             'code'      => 'NO',
             'native'    => 'Norge',
             'localized' => 'Norvège',
         ],
-        'ne'         => [
+        'ne' => [
             'code'      => 'NP',
             'native'    => 'नेपाल',
             'localized' => 'Népal',
         ],
-        'nl'         => [
+        'nl' => [
             'code'      => 'NL',
             'native'    => 'Nederland',
             'localized' => 'Pays-Bas',
         ],
-        'nn'         => [
+        'nn' => [
             'code'      => 'NO',
             'native'    => 'Noreg',
             'localized' => 'Norvège',
         ],
-        'oc'         => [
+        'oc' => [
             'code'      => 'FR',
             'native'    => 'Fr',
             'localized' => 'France',
         ],
-        'pl'         => [
+        'pl' => [
             'code'      => 'PL',
             'native'    => 'Polska',
             'localized' => 'Pologne',
         ],
-        'ps'         => [
+        'ps' => [
             'code'      => 'AF',
             'native'    => 'افغانستان',
             'localized' => 'Afghanistan',
         ],
-        'pt'         => [
+        'pt' => [
             'code'      => 'BR',
             'native'    => 'Brasil',
             'localized' => 'Brésil',
         ],
-        'pt_BR'      => [
+        'pt_BR' => [
             'code'      => 'BR',
             'native'    => 'Brasil',
             'localized' => 'Brésil',
         ],
-        'ro'         => [
+        'ro' => [
             'code'      => 'RO',
             'native'    => 'România',
             'localized' => 'Roumanie',
         ],
-        'ru'         => [
+        'ru' => [
             'code'      => 'RU',
             'native'    => 'Россия',
             'localized' => 'Russie',
         ],
-        'sc'         => [
+        'sc' => [
             'code'      => 'IT',
             'native'    => 'Itàlia',
             'localized' => 'Italie',
         ],
-        'si'         => [
+        'si' => [
             'code'      => 'LK',
             'native'    => 'ශ්‍රී ලංකාව',
             'localized' => 'Sri Lanka',
         ],
-        'sk'         => [
+        'sk' => [
             'code'      => 'SK',
             'native'    => 'Slovensko',
             'localized' => 'Slovaquie',
         ],
-        'sl'         => [
+        'sl' => [
             'code'      => 'SI',
             'native'    => 'Slovenija',
             'localized' => 'Slovénie',
         ],
-        'sq'         => [
+        'sq' => [
             'code'      => 'AL',
             'native'    => 'Shqipëri',
             'localized' => 'Albanie',
         ],
-        'sr_Cyrl'    => [
+        'sr_Cyrl' => [
             'code'      => 'RS',
             'native'    => 'Србија',
             'localized' => 'Serbie',
         ],
-        'sr_Latn'    => [
+        'sr_Latn' => [
             'code'      => 'RS',
             'native'    => 'Srbija',
             'localized' => 'Serbie',
@@ -344,82 +344,82 @@ it('should check the returned list in French')
             'native'    => 'Crna Gora',
             'localized' => 'Monténégro',
         ],
-        'sv'         => [
+        'sv' => [
             'code'      => 'SE',
             'native'    => 'Sverige',
             'localized' => 'Suède',
         ],
-        'sw'         => [
+        'sw' => [
             'code'      => 'TZ',
             'native'    => 'Tanzania',
             'localized' => 'Tanzanie',
         ],
-        'tg'         => [
+        'tg' => [
             'code'      => 'TJ',
             'native'    => 'Тоҷикистон',
             'localized' => 'Tadjikistan',
         ],
-        'th'         => [
+        'th' => [
             'code'      => 'TH',
             'native'    => 'ไทย',
             'localized' => 'Thaïlande',
         ],
-        'tk'         => [
+        'tk' => [
             'code'      => 'TM',
             'native'    => 'Türkmenistan',
             'localized' => 'Turkménistan',
         ],
-        'tl'         => [
+        'tl' => [
             'code'      => 'PH',
             'native'    => 'Philippines',
             'localized' => 'Philippines',
         ],
-        'tr'         => [
+        'tr' => [
             'code'      => 'TR',
             'native'    => 'Türkiye',
             'localized' => 'Turquie',
         ],
-        'ug'         => [
+        'ug' => [
             'code'      => 'CN',
             'native'    => 'جۇڭگو',
             'localized' => 'Chine',
         ],
-        'uk'         => [
+        'uk' => [
             'code'      => 'UA',
             'native'    => 'Україна',
             'localized' => 'Ukraine',
         ],
-        'ur'         => [
+        'ur' => [
             'code'      => 'PK',
             'native'    => 'پاکستان',
             'localized' => 'Pakistan',
         ],
-        'uz_Cyrl'    => [
+        'uz_Cyrl' => [
             'code'      => 'UZ',
             'native'    => 'Ўзбекистон',
             'localized' => 'Ouzbékistan',
         ],
-        'uz_Latn'    => [
+        'uz_Latn' => [
             'code'      => 'UZ',
             'native'    => 'Oʻzbekiston',
             'localized' => 'Ouzbékistan',
         ],
-        'vi'         => [
+        'vi' => [
             'code'      => 'VN',
             'native'    => 'Việt Nam',
             'localized' => 'Viêt Nam',
         ],
-        'zh_CN'      => [
+        'zh_CN' => [
             'code'      => 'CN',
             'native'    => '中国',
             'localized' => 'Chine',
         ],
-        'zh_HK'      => [
+        'zh_HK' => [
             'code'      => 'HK',
             'native'    => '中国香港特别行政区',
             'localized' => 'R.a.s. Chinoise De Hong Kong',
         ],
-        'zh_TW'      => [
+        'zh_TW' => [
             'code'      => 'TW',
             'native'    => '台湾',
             'localized' => 'Taïwan',
@@ -429,312 +429,312 @@ it('should check the returned list in French')
 it('should check the returned list in Ukrainian')
     ->expect(fn () => flatten(CountryNames::get(Locale::Ukrainian, SortBy::Key)))
     ->toBe([
-        'af'         => [
+        'af' => [
             'code'      => 'ZA',
             'native'    => 'Suid-Afrika',
             'localized' => 'Південно-Африканська Республіка',
         ],
-        'ar'         => [
+        'ar' => [
             'code'      => 'EG',
             'native'    => 'مصر',
             'localized' => 'Єгипет',
         ],
-        'az'         => [
+        'az' => [
             'code'      => 'AZ',
             'native'    => 'Azərbaycan',
             'localized' => 'Азербайджан',
         ],
-        'be'         => [
+        'be' => [
             'code'      => 'BY',
             'native'    => 'Беларусь',
             'localized' => 'Білорусь',
         ],
-        'bg'         => [
+        'bg' => [
             'code'      => 'BG',
             'native'    => 'България',
             'localized' => 'Болгарія',
         ],
-        'bn'         => [
+        'bn' => [
             'code'      => 'BD',
             'native'    => 'বাংলাদেশ',
             'localized' => 'Бангладеш',
         ],
-        'bs'         => [
+        'bs' => [
             'code'      => 'BA',
             'native'    => 'Bosna I Hercegovina',
             'localized' => 'Боснія І Герцеговина',
         ],
-        'ca'         => [
+        'ca' => [
             'code'      => 'ES',
             'native'    => 'Espanya',
             'localized' => 'Іспанія',
         ],
-        'cs'         => [
+        'cs' => [
             'code'      => 'CZ',
             'native'    => 'Česko',
             'localized' => 'Чехія',
         ],
-        'cy'         => [
+        'cy' => [
             'code'      => 'GB',
             'native'    => 'Y Deyrnas Unedig',
             'localized' => 'Велика Британія',
         ],
-        'da'         => [
+        'da' => [
             'code'      => 'DK',
             'native'    => 'Danmark',
             'localized' => 'Данія',
         ],
-        'de'         => [
+        'de' => [
             'code'      => 'DE',
             'native'    => 'Deutschland',
             'localized' => 'Німеччина',
         ],
-        'de_CH'      => [
+        'de_CH' => [
             'code'      => 'CH',
             'native'    => 'Schweiz',
             'localized' => 'Швейцарія',
         ],
-        'el'         => [
+        'el' => [
             'code'      => 'GR',
             'native'    => 'Ελλάδα',
             'localized' => 'Греція',
         ],
-        'en'         => [
+        'en' => [
             'code'      => 'US',
             'native'    => 'United States',
             'localized' => 'Сполучені Штати',
         ],
-        'es'         => [
+        'es' => [
             'code'      => 'ES',
             'native'    => 'España',
             'localized' => 'Іспанія',
         ],
-        'et'         => [
+        'et' => [
             'code'      => 'EE',
             'native'    => 'Eesti',
             'localized' => 'Естонія',
         ],
-        'eu'         => [
+        'eu' => [
             'code'      => 'ES',
             'native'    => 'Espainia',
             'localized' => 'Іспанія',
         ],
-        'fa'         => [
+        'fa' => [
             'code'      => 'IR',
             'native'    => 'ایران',
             'localized' => 'Іран',
         ],
-        'fi'         => [
+        'fi' => [
             'code'      => 'FI',
             'native'    => 'Suomi',
             'localized' => 'Фінляндія',
         ],
-        'fil'        => [
+        'fil' => [
             'code'      => 'PH',
             'native'    => 'Pilipinas',
             'localized' => 'Філіппіни',
         ],
-        'fr'         => [
+        'fr' => [
             'code'      => 'FR',
             'native'    => 'France',
             'localized' => 'Франція',
         ],
-        'gl'         => [
+        'gl' => [
             'code'      => 'ES',
             'native'    => 'España',
             'localized' => 'Іспанія',
         ],
-        'gu'         => [
+        'gu' => [
             'code'      => 'IN',
             'native'    => 'ભારત',
             'localized' => 'Індія',
         ],
-        'he'         => [
+        'he' => [
             'code'      => 'IL',
             'native'    => 'ישראל',
             'localized' => 'Ізраїль',
         ],
-        'hi'         => [
+        'hi' => [
             'code'      => 'IN',
             'native'    => 'भारत',
             'localized' => 'Індія',
         ],
-        'hr'         => [
+        'hr' => [
             'code'      => 'HR',
             'native'    => 'Hrvatska',
             'localized' => 'Хорватія',
         ],
-        'hu'         => [
+        'hu' => [
             'code'      => 'HU',
             'native'    => 'Magyarország',
             'localized' => 'Угорщина',
         ],
-        'hy'         => [
+        'hy' => [
             'code'      => 'AM',
             'native'    => 'Հայաստան',
             'localized' => 'Вірменія',
         ],
-        'id'         => [
+        'id' => [
             'code'      => 'ID',
             'native'    => 'Indonesia',
             'localized' => 'Індонезія',
         ],
-        'is'         => [
+        'is' => [
             'code'      => 'IS',
             'native'    => 'Ísland',
             'localized' => 'Ісландія',
         ],
-        'it'         => [
+        'it' => [
             'code'      => 'IT',
             'native'    => 'Italia',
             'localized' => 'Італія',
         ],
-        'ja'         => [
+        'ja' => [
             'code'      => 'JP',
             'native'    => '日本',
             'localized' => 'Японія',
         ],
-        'ka'         => [
+        'ka' => [
             'code'      => 'GE',
             'native'    => 'საქართველო',
             'localized' => 'Грузія',
         ],
-        'kk'         => [
+        'kk' => [
             'code'      => 'KZ',
             'native'    => 'Қазақстан',
             'localized' => 'Казахстан',
         ],
-        'km'         => [
+        'km' => [
             'code'      => 'KH',
             'native'    => 'កម្ពុជា',
             'localized' => 'Камбоджа',
         ],
-        'kn'         => [
+        'kn' => [
             'code'      => 'IN',
             'native'    => 'ಭಾರತ',
             'localized' => 'Індія',
         ],
-        'ko'         => [
+        'ko' => [
             'code'      => 'KR',
             'native'    => '대한민국',
             'localized' => 'Південна Корея',
         ],
-        'lt'         => [
+        'lt' => [
             'code'      => 'LT',
             'native'    => 'Lietuva',
             'localized' => 'Литва',
         ],
-        'lv'         => [
+        'lv' => [
             'code'      => 'LV',
             'native'    => 'Latvija',
             'localized' => 'Латвія',
         ],
-        'mk'         => [
+        'mk' => [
             'code'      => 'MK',
             'native'    => 'Северна Македонија',
             'localized' => 'Північна Македонія',
         ],
-        'mn'         => [
+        'mn' => [
             'code'      => 'MN',
             'native'    => 'Монгол',
             'localized' => 'Монголія',
         ],
-        'mr'         => [
+        'mr' => [
             'code'      => 'IN',
             'native'    => 'भारत',
             'localized' => 'Індія',
         ],
-        'ms'         => [
+        'ms' => [
             'code'      => 'MY',
             'native'    => 'Malaysia',
             'localized' => 'Малайзія',
         ],
-        'nb'         => [
+        'nb' => [
             'code'      => 'NO',
             'native'    => 'Norge',
             'localized' => 'Норвегія',
         ],
-        'ne'         => [
+        'ne' => [
             'code'      => 'NP',
             'native'    => 'नेपाल',
             'localized' => 'Непал',
         ],
-        'nl'         => [
+        'nl' => [
             'code'      => 'NL',
             'native'    => 'Nederland',
             'localized' => 'Нідерланди',
         ],
-        'nn'         => [
+        'nn' => [
             'code'      => 'NO',
             'native'    => 'Noreg',
             'localized' => 'Норвегія',
         ],
-        'oc'         => [
+        'oc' => [
             'code'      => 'FR',
             'native'    => 'Fr',
             'localized' => 'Франція',
         ],
-        'pl'         => [
+        'pl' => [
             'code'      => 'PL',
             'native'    => 'Polska',
             'localized' => 'Польща',
         ],
-        'ps'         => [
+        'ps' => [
             'code'      => 'AF',
             'native'    => 'افغانستان',
             'localized' => 'Афганістан',
         ],
-        'pt'         => [
+        'pt' => [
             'code'      => 'BR',
             'native'    => 'Brasil',
             'localized' => 'Бразилія',
         ],
-        'pt_BR'      => [
+        'pt_BR' => [
             'code'      => 'BR',
             'native'    => 'Brasil',
             'localized' => 'Бразилія',
         ],
-        'ro'         => [
+        'ro' => [
             'code'      => 'RO',
             'native'    => 'România',
             'localized' => 'Румунія',
         ],
-        'ru'         => [
+        'ru' => [
             'code'      => 'RU',
             'native'    => 'Россия',
             'localized' => 'Росія',
         ],
-        'sc'         => [
+        'sc' => [
             'code'      => 'IT',
             'native'    => 'Itàlia',
             'localized' => 'Італія',
         ],
-        'si'         => [
+        'si' => [
             'code'      => 'LK',
             'native'    => 'ශ්‍රී ලංකාව',
             'localized' => 'Шрі-Ланка',
         ],
-        'sk'         => [
+        'sk' => [
             'code'      => 'SK',
             'native'    => 'Slovensko',
             'localized' => 'Словаччина',
         ],
-        'sl'         => [
+        'sl' => [
             'code'      => 'SI',
             'native'    => 'Slovenija',
             'localized' => 'Словенія',
         ],
-        'sq'         => [
+        'sq' => [
             'code'      => 'AL',
             'native'    => 'Shqipëri',
             'localized' => 'Албанія',
         ],
-        'sr_Cyrl'    => [
+        'sr_Cyrl' => [
             'code'      => 'RS',
             'native'    => 'Србија',
             'localized' => 'Сербія',
         ],
-        'sr_Latn'    => [
+        'sr_Latn' => [
             'code'      => 'RS',
             'native'    => 'Srbija',
             'localized' => 'Сербія',
@@ -744,82 +744,82 @@ it('should check the returned list in Ukrainian')
             'native'    => 'Crna Gora',
             'localized' => 'Чорногорія',
         ],
-        'sv'         => [
+        'sv' => [
             'code'      => 'SE',
             'native'    => 'Sverige',
             'localized' => 'Швеція',
         ],
-        'sw'         => [
+        'sw' => [
             'code'      => 'TZ',
             'native'    => 'Tanzania',
             'localized' => 'Танзанія',
         ],
-        'tg'         => [
+        'tg' => [
             'code'      => 'TJ',
             'native'    => 'Тоҷикистон',
             'localized' => 'Таджикистан',
         ],
-        'th'         => [
+        'th' => [
             'code'      => 'TH',
             'native'    => 'ไทย',
             'localized' => 'Таїланд',
         ],
-        'tk'         => [
+        'tk' => [
             'code'      => 'TM',
             'native'    => 'Türkmenistan',
             'localized' => 'Туркменістан',
         ],
-        'tl'         => [
+        'tl' => [
             'code'      => 'PH',
             'native'    => 'Philippines',
             'localized' => 'Філіппіни',
         ],
-        'tr'         => [
+        'tr' => [
             'code'      => 'TR',
             'native'    => 'Türkiye',
             'localized' => 'Туреччина',
         ],
-        'ug'         => [
+        'ug' => [
             'code'      => 'CN',
             'native'    => 'جۇڭگو',
             'localized' => 'Китай',
         ],
-        'uk'         => [
+        'uk' => [
             'code'      => 'UA',
             'native'    => 'Україна',
             'localized' => 'Україна',
         ],
-        'ur'         => [
+        'ur' => [
             'code'      => 'PK',
             'native'    => 'پاکستان',
             'localized' => 'Пакистан',
         ],
-        'uz_Cyrl'    => [
+        'uz_Cyrl' => [
             'code'      => 'UZ',
             'native'    => 'Ўзбекистон',
             'localized' => 'Узбекистан',
         ],
-        'uz_Latn'    => [
+        'uz_Latn' => [
             'code'      => 'UZ',
             'native'    => 'Oʻzbekiston',
             'localized' => 'Узбекистан',
         ],
-        'vi'         => [
+        'vi' => [
             'code'      => 'VN',
             'native'    => 'Việt Nam',
             'localized' => 'Вʼєтнам',
         ],
-        'zh_CN'      => [
+        'zh_CN' => [
             'code'      => 'CN',
             'native'    => '中国',
             'localized' => 'Китай',
         ],
-        'zh_HK'      => [
+        'zh_HK' => [
             'code'      => 'HK',
             'native'    => '中国香港特别行政区',
             'localized' => 'Гонконг, Оар Китаю',
         ],
-        'zh_TW'      => [
+        'zh_TW' => [
             'code'      => 'TW',
             'native'    => '台湾',
             'localized' => 'Тайвань',

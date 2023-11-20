@@ -17,8 +17,6 @@ declare(strict_types=1);
 
 namespace LaravelLang\Dev\Processors;
 
-;
-
 use DragonCode\Support\Facades\Helpers\Str;
 use LaravelLang\Dev\Integrations\Cldr as CldrIntegration;
 use LaravelLang\NativeCountryNames\CountryNames;
