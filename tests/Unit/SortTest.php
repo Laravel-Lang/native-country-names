@@ -16,24 +16,24 @@
 declare(strict_types=1);
 
 use LaravelLang\NativeCountryNames\Enums\SortBy;
-use LaravelLang\NativeCountryNames\Native;
+use LaravelLang\NativeCountryNames\CountryNames;
 
 it('checks default sorting', function (string $locale) {
-    expect(Native::get($locale))
+    expect(CountryNames::get($locale))
         ->toBeSameCount()
         ->toBeLocale($locale)
         ->not->toBeEmpty();
 })->with('locales-string');
 
 it('checks sorting by key', function (string $locale) {
-    expect(Native::get($locale, SortBy::Key))
+    expect(CountryNames::get($locale, SortBy::Key))
         ->toBeSameCount()
         ->toBeLocale($locale, SortBy::Key)
         ->not->toBeEmpty();
 })->with('locales-string');
 
 it('checks sorting by value', function (string $locale) {
-    expect(Native::get($locale, SortBy::Value))
+    expect(CountryNames::get($locale, SortBy::Value))
         ->toBeSameCount()
         ->toBeLocale($locale, SortBy::Value)
         ->not->toBeEmpty();

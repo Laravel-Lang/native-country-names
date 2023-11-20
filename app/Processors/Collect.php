@@ -17,29 +17,70 @@ declare(strict_types=1);
 
 namespace LaravelLang\Dev\Processors;
 
-use LaravelLang\NativeCountryNames\Native;
+use LaravelLang\Dev\Integrations\Cldr as CldrIntegration;
+use LaravelLang\NativeCountryNames\CountryNames;
+use LaravelLang\NativeCountryNames\Data\CountryData;
+use Symfony\Component\Console\Output\OutputInterface;
 
 class Collect extends Processor
 {
-    protected string $targetFile = __DIR__ . '/../../locales/_native/json.json';
+    protected array $collection = [];
+
+    public function __construct(
+        OutputInterface $output,
+        protected CldrIntegration $cldr = new CldrIntegration()
+    ) {
+        parent::__construct($output);
+    }
 
     public function handle(): void
     {
         $this->output->writeln('Collecting locales...');
-        $collection = $this->compile();
+        $this->collectLocales();
 
-        $this->output->writeln('Store to file...');
-        $this->store($this->targetFile, $collection);
+        $this->output->writeln('Store locales...');
+        $this->storeLocales();
     }
 
-    protected function compile(): array
+    protected function collectLocales(): void
     {
-        $result = [];
+        foreach ($this->locales() as $first) {
+            $this->collection[$first]['tl'] = $this->data('PH', 'Philippines');
 
-        foreach ($this->locales() as $locale) {
-            $result[$locale] = Native::get($locale)[$locale];
+            foreach ($this->locales() as $second) {
+                $data = $this->data(
+                    $this->findCode($second),
+                    $this->findName($second, $first)
+                );
+
+                $this->collection[$first][$second] = $data;
+
+                if ($first === $second) {
+                    $this->collection[CountryNames::$default][$first] = $data;
+                }
+            }
         }
+    }
 
-        return $result;
+    protected function data(string $code, string $name): array
+    {
+        return (new CountryData($code, $name))->toArray();
+    }
+
+    protected function storeLocales(): void
+    {
+        foreach ($this->collection as $locale => $values) {
+            $this->store($locale, $values);
+        }
+    }
+
+    protected function findName(string $locale, string $forLocale): string
+    {
+        return $this->cldr->name($locale, $forLocale);
+    }
+
+    protected function findCode(string $locale): string
+    {
+        return $this->cldr->code($locale);
     }
 }

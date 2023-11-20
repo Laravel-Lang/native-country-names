@@ -22,15 +22,13 @@ use Punic\Territory;
 
 class Cldr extends Integration
 {
-    public function get(string $locale, string $forLocale): ?string
-    {
-        $result = $this->find($locale, $forLocale);
-
-        return $result === $locale ? null : $result;
-    }
-
-    protected function find(string $locale, string $forLocale): string
+    public function name(string $locale, string $forLocale): string
     {
         return Territory::getName(Data::getTerritory($locale), $forLocale);
+    }
+
+    public function code(string $locale): string
+    {
+        return Data::getTerritory($locale);
     }
 }

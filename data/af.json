@@ -1,0 +1,318 @@
+{
+    "af": {
+        "code": "ZA",
+        "name": "Suid-Afrika"
+    },
+    "ar": {
+        "code": "EG",
+        "name": "Egipte"
+    },
+    "az": {
+        "code": "AZ",
+        "name": "Azerbeidjan"
+    },
+    "be": {
+        "code": "BY",
+        "name": "Belarus"
+    },
+    "bg": {
+        "code": "BG",
+        "name": "Bulgarye"
+    },
+    "bn": {
+        "code": "BD",
+        "name": "Bangladesj"
+    },
+    "bs": {
+        "code": "BA",
+        "name": "Bosnië En Herzegowina"
+    },
+    "ca": {
+        "code": "ES",
+        "name": "Spanje"
+    },
+    "cs": {
+        "code": "CZ",
+        "name": "Tsjeggië"
+    },
+    "cy": {
+        "code": "GB",
+        "name": "Verenigde Koninkryk"
+    },
+    "da": {
+        "code": "DK",
+        "name": "Denemarke"
+    },
+    "de": {
+        "code": "DE",
+        "name": "Duitsland"
+    },
+    "de_CH": {
+        "code": "CH",
+        "name": "Switserland"
+    },
+    "el": {
+        "code": "GR",
+        "name": "Griekeland"
+    },
+    "en": {
+        "code": "US",
+        "name": "Verenigde State Van Amerika"
+    },
+    "es": {
+        "code": "ES",
+        "name": "Spanje"
+    },
+    "et": {
+        "code": "EE",
+        "name": "Estland"
+    },
+    "eu": {
+        "code": "ES",
+        "name": "Spanje"
+    },
+    "fa": {
+        "code": "IR",
+        "name": "Iran"
+    },
+    "fi": {
+        "code": "FI",
+        "name": "Finland"
+    },
+    "fil": {
+        "code": "PH",
+        "name": "Filippyne"
+    },
+    "fr": {
+        "code": "FR",
+        "name": "Frankryk"
+    },
+    "gl": {
+        "code": "ES",
+        "name": "Spanje"
+    },
+    "gu": {
+        "code": "IN",
+        "name": "Indië"
+    },
+    "he": {
+        "code": "IL",
+        "name": "Israel"
+    },
+    "hi": {
+        "code": "IN",
+        "name": "Indië"
+    },
+    "hr": {
+        "code": "HR",
+        "name": "Kroasië"
+    },
+    "hu": {
+        "code": "HU",
+        "name": "Hongarye"
+    },
+    "hy": {
+        "code": "AM",
+        "name": "Armenië"
+    },
+    "id": {
+        "code": "ID",
+        "name": "Indonesië"
+    },
+    "is": {
+        "code": "IS",
+        "name": "Ysland"
+    },
+    "it": {
+        "code": "IT",
+        "name": "Italië"
+    },
+    "ja": {
+        "code": "JP",
+        "name": "Japan"
+    },
+    "ka": {
+        "code": "GE",
+        "name": "Georgië"
+    },
+    "kk": {
+        "code": "KZ",
+        "name": "Kazakstan"
+    },
+    "km": {
+        "code": "KH",
+        "name": "Kambodja"
+    },
+    "kn": {
+        "code": "IN",
+        "name": "Indië"
+    },
+    "ko": {
+        "code": "KR",
+        "name": "Suid-Korea"
+    },
+    "lt": {
+        "code": "LT",
+        "name": "Litaue"
+    },
+    "lv": {
+        "code": "LV",
+        "name": "Letland"
+    },
+    "mk": {
+        "code": "MK",
+        "name": "Noord-Macedonië"
+    },
+    "mn": {
+        "code": "MN",
+        "name": "Mongolië"
+    },
+    "mr": {
+        "code": "IN",
+        "name": "Indië"
+    },
+    "ms": {
+        "code": "MY",
+        "name": "Maleisië"
+    },
+    "nb": {
+        "code": "NO",
+        "name": "Noorweë"
+    },
+    "ne": {
+        "code": "NP",
+        "name": "Nepal"
+    },
+    "nl": {
+        "code": "NL",
+        "name": "Nederland"
+    },
+    "nn": {
+        "code": "NO",
+        "name": "Noorweë"
+    },
+    "oc": {
+        "code": "FR",
+        "name": "Frankryk"
+    },
+    "pl": {
+        "code": "PL",
+        "name": "Pole"
+    },
+    "ps": {
+        "code": "AF",
+        "name": "Afganistan"
+    },
+    "pt": {
+        "code": "BR",
+        "name": "Brasilië"
+    },
+    "pt_BR": {
+        "code": "BR",
+        "name": "Brasilië"
+    },
+    "ro": {
+        "code": "RO",
+        "name": "Roemenië"
+    },
+    "ru": {
+        "code": "RU",
+        "name": "Rusland"
+    },
+    "sc": {
+        "code": "IT",
+        "name": "Italië"
+    },
+    "si": {
+        "code": "LK",
+        "name": "Sri Lanka"
+    },
+    "sk": {
+        "code": "SK",
+        "name": "Slowakye"
+    },
+    "sl": {
+        "code": "SI",
+        "name": "Slowenië"
+    },
+    "sq": {
+        "code": "AL",
+        "name": "Albanië"
+    },
+    "sr_Cyrl": {
+        "code": "RS",
+        "name": "Serwië"
+    },
+    "sr_Latn": {
+        "code": "RS",
+        "name": "Serwië"
+    },
+    "sr_Latn_ME": {
+        "code": "ME",
+        "name": "Montenegro"
+    },
+    "sv": {
+        "code": "SE",
+        "name": "Swede"
+    },
+    "sw": {
+        "code": "TZ",
+        "name": "Tanzanië"
+    },
+    "tg": {
+        "code": "TJ",
+        "name": "Tadjikistan"
+    },
+    "th": {
+        "code": "TH",
+        "name": "Thailand"
+    },
+    "tk": {
+        "code": "TM",
+        "name": "Turkmenistan"
+    },
+    "tl": {
+        "code": "PH",
+        "name": "Filippyne"
+    },
+    "tr": {
+        "code": "TR",
+        "name": "Turkye"
+    },
+    "ug": {
+        "code": "CN",
+        "name": "China"
+    },
+    "uk": {
+        "code": "UA",
+        "name": "Oekraïne"
+    },
+    "ur": {
+        "code": "PK",
+        "name": "Pakistan"
+    },
+    "uz_Cyrl": {
+        "code": "UZ",
+        "name": "Oesbekistan"
+    },
+    "uz_Latn": {
+        "code": "UZ",
+        "name": "Oesbekistan"
+    },
+    "vi": {
+        "code": "VN",
+        "name": "Viëtnam"
+    },
+    "zh_CN": {
+        "code": "CN",
+        "name": "China"
+    },
+    "zh_HK": {
+        "code": "HK",
+        "name": "Hongkong Sas China"
+    },
+    "zh_TW": {
+        "code": "TW",
+        "name": "Taiwan"
+    }
+}
