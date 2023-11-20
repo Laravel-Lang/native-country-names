@@ -15,8 +15,8 @@
 
 declare(strict_types=1);
 
-use LaravelLang\NativeCountryNames\Enums\SortBy;
 use LaravelLang\NativeCountryNames\CountryNames;
+use LaravelLang\NativeCountryNames\Enums\SortBy;
 
 it('checks default sorting', function (string $locale) {
     expect(CountryNames::get($locale))

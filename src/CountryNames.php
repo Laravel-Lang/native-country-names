@@ -29,9 +29,6 @@ class CountryNames
     public static string $default = '_native';
 
     /**
-     * @param  BackedEnum|string|null  $locale
-     * @param  SortBy  $sortBy
-     *
      * @return Collection<CountryData>
      */
     public static function get(BackedEnum|string|null $locale = null, SortBy $sortBy = SortBy::None): Collection
@@ -48,7 +45,7 @@ class CountryNames
         return collect(static::load(static::path($locale)))
             ->when($sortBy === SortBy::Key, fn (Collection $items) => $items->sortKeys())
             ->when($sortBy === SortBy::Value, fn (Collection $items) => $items->sortBy('name'))
-            ->map(fn (array $item) => new CountryData($item['code'], $item['name']));
+            ->map(fn (array $item) => new CountryData($item['code'], $item['native'], $item['localized']));
     }
 
     protected static function load(string $path): array

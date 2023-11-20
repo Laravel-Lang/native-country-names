@@ -17,6 +17,7 @@ declare(strict_types=1);
 
 namespace LaravelLang\Dev\Processors;
 
+use DragonCode\Support\Facades\Helpers\Str;
 use LaravelLang\Dev\Integrations\Cldr as CldrIntegration;
 use LaravelLang\NativeCountryNames\CountryNames;
 use LaravelLang\NativeCountryNames\Data\CountryData;
@@ -45,11 +46,12 @@ class Collect extends Processor
     protected function collectLocales(): void
     {
         foreach ($this->locales() as $first) {
-            $this->collection[$first]['tl'] = $this->data('PH', 'Philippines');
+            $this->collection[$first]['tl'] = $this->data('PH', 'Philippines', 'Philippines');
 
             foreach ($this->locales() as $second) {
                 $data = $this->data(
                     $this->findCode($second),
+                    $this->findName($second, $second),
                     $this->findName($second, $first)
                 );
 
@@ -62,9 +64,9 @@ class Collect extends Processor
         }
     }
 
-    protected function data(string $code, string $name): array
+    protected function data(string $code, string $name, string $localized): array
     {
-        return (new CountryData($code, $name))->toArray();
+        return (new CountryData($code, Str::title($name), Str::title($localized)))->toArray();
     }
 
     protected function storeLocales(): void

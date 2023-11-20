@@ -1,1 +1,397 @@
-{"af":{"code":"ZA","name":"දකුණු අප්‍රිකාව"},"ar":{"code":"EG","name":"ඊජිප්තුව"},"az":{"code":"AZ","name":"අසර්බයිජානය"},"be":{"code":"BY","name":"බෙලරුස්"},"bg":{"code":"BG","name":"බල්ගේරියාව"},"bn":{"code":"BD","name":"බංග්ලාදේශය"},"bs":{"code":"BA","name":"බොස්නියාව සහ හර්සගොවීනාව"},"ca":{"code":"ES","name":"ස්පාඤ්ඤය"},"cs":{"code":"CZ","name":"චෙචියාව"},"cy":{"code":"GB","name":"එක්සත් රාජධානිය"},"da":{"code":"DK","name":"ඩෙන්මාර්කය"},"de":{"code":"DE","name":"ජර්මනිය"},"de_CH":{"code":"CH","name":"ස්විස්ටර්ලන්තය"},"el":{"code":"GR","name":"ග්‍රීසිය"},"en":{"code":"US","name":"එක්සත් ජනපදය"},"es":{"code":"ES","name":"ස්පාඤ්ඤය"},"et":{"code":"EE","name":"එස්තෝනියාව"},"eu":{"code":"ES","name":"ස්පාඤ්ඤය"},"fa":{"code":"IR","name":"ඉරානය"},"fi":{"code":"FI","name":"ෆින්ලන්තය"},"fil":{"code":"PH","name":"පිලිපීනය"},"fr":{"code":"FR","name":"ප්‍රංශය"},"gl":{"code":"ES","name":"ස්පාඤ්ඤය"},"gu":{"code":"IN","name":"ඉන්දියාව"},"he":{"code":"IL","name":"ඊශ්‍රායලය"},"hi":{"code":"IN","name":"ඉන්දියාව"},"hr":{"code":"HR","name":"ක්‍රොඒෂියාව"},"hu":{"code":"HU","name":"හන්ගේරියාව"},"hy":{"code":"AM","name":"ආර්මේනියාව"},"id":{"code":"ID","name":"ඉන්දුනීසියාව"},"is":{"code":"IS","name":"අයිස්ලන්තය"},"it":{"code":"IT","name":"ඉතාලිය"},"ja":{"code":"JP","name":"ජපානය"},"ka":{"code":"GE","name":"ජෝර්ජියාව"},"kk":{"code":"KZ","name":"කසකස්තානය"},"km":{"code":"KH","name":"කාම්බෝජය"},"kn":{"code":"IN","name":"ඉන්දියාව"},"ko":{"code":"KR","name":"දකුණු කොරියාව"},"lt":{"code":"LT","name":"ලිතුවේනියාව"},"lv":{"code":"LV","name":"ලැට්වියාව"},"mk":{"code":"MK","name":"උතුරු මැසිඩෝනියාව"},"mn":{"code":"MN","name":"මොන්ගෝලියාව"},"mr":{"code":"IN","name":"ඉන්දියාව"},"ms":{"code":"MY","name":"මැලේසියාව"},"nb":{"code":"NO","name":"නෝර්වේ"},"ne":{"code":"NP","name":"නේපාලය"},"nl":{"code":"NL","name":"නෙදර්ලන්තය"},"nn":{"code":"NO","name":"නෝර්වේ"},"oc":{"code":"FR","name":"ප්‍රංශය"},"pl":{"code":"PL","name":"පෝලන්තය"},"ps":{"code":"AF","name":"ඇෆ්ගනිස්ථානය"},"pt":{"code":"BR","name":"බ්‍රසීලය"},"pt_BR":{"code":"BR","name":"බ්‍රසීලය"},"ro":{"code":"RO","name":"රුමේනියාව"},"ru":{"code":"RU","name":"රුසියාව"},"sc":{"code":"IT","name":"ඉතාලිය"},"si":{"code":"LK","name":"ශ්‍රී ලංකාව"},"sk":{"code":"SK","name":"ස්ලෝවැකියාව"},"sl":{"code":"SI","name":"ස්ලෝවේනියාව"},"sq":{"code":"AL","name":"ඇල්බේනියාව"},"sr_Cyrl":{"code":"RS","name":"සර්බියාව"},"sr_Latn":{"code":"RS","name":"සර්බියාව"},"sr_Latn_ME":{"code":"ME","name":"මොන්ටෙනීග්‍රෝ"},"sv":{"code":"SE","name":"ස්වීඩනය"},"sw":{"code":"TZ","name":"ටැන්සානියාව"},"tg":{"code":"TJ","name":"ටජිකිස්තානය"},"th":{"code":"TH","name":"තායිලන්තය"},"tk":{"code":"TM","name":"ටර්ක්මෙනිස්ථානය"},"tl":{"code":"PH","name":"පිලිපීනය"},"tr":{"code":"TR","name":"තුර්කිය"},"ug":{"code":"CN","name":"චීනය"},"uk":{"code":"UA","name":"යුක්රේනය"},"ur":{"code":"PK","name":"පාකිස්තානය"},"uz_Cyrl":{"code":"UZ","name":"උස්බෙකිස්ථානය"},"uz_Latn":{"code":"UZ","name":"උස්බෙකිස්ථානය"},"vi":{"code":"VN","name":"වියට්නාමය"},"zh_CN":{"code":"CN","name":"චීනය"},"zh_HK":{"code":"HK","name":"හොංකොං විශේෂ පරිපාලන කලාපය චීනය"},"zh_TW":{"code":"TW","name":"තායිවානය"}}
+{
+    "af": {
+        "code": "ZA",
+        "native": "Suid-Afrika",
+        "localized": "දකුණු අප්‍රිකාව"
+    },
+    "ar": {
+        "code": "EG",
+        "native": "مصر",
+        "localized": "ඊජිප්තුව"
+    },
+    "az": {
+        "code": "AZ",
+        "native": "Azərbaycan",
+        "localized": "අසර්බයිජානය"
+    },
+    "be": {
+        "code": "BY",
+        "native": "Беларусь",
+        "localized": "බෙලරුස්"
+    },
+    "bg": {
+        "code": "BG",
+        "native": "България",
+        "localized": "බල්ගේරියාව"
+    },
+    "bn": {
+        "code": "BD",
+        "native": "বাংলাদেশ",
+        "localized": "බංග්ලාදේශය"
+    },
+    "bs": {
+        "code": "BA",
+        "native": "Bosna I Hercegovina",
+        "localized": "බොස්නියාව සහ හර්සගොවීනාව"
+    },
+    "ca": {
+        "code": "ES",
+        "native": "Espanya",
+        "localized": "ස්පාඤ්ඤය"
+    },
+    "cs": {
+        "code": "CZ",
+        "native": "Česko",
+        "localized": "චෙචියාව"
+    },
+    "cy": {
+        "code": "GB",
+        "native": "Y Deyrnas Unedig",
+        "localized": "එක්සත් රාජධානිය"
+    },
+    "da": {
+        "code": "DK",
+        "native": "Danmark",
+        "localized": "ඩෙන්මාර්කය"
+    },
+    "de": {
+        "code": "DE",
+        "native": "Deutschland",
+        "localized": "ජර්මනිය"
+    },
+    "de_CH": {
+        "code": "CH",
+        "native": "Schweiz",
+        "localized": "ස්විස්ටර්ලන්තය"
+    },
+    "el": {
+        "code": "GR",
+        "native": "Ελλάδα",
+        "localized": "ග්‍රීසිය"
+    },
+    "en": {
+        "code": "US",
+        "native": "United States",
+        "localized": "එක්සත් ජනපදය"
+    },
+    "es": {
+        "code": "ES",
+        "native": "España",
+        "localized": "ස්පාඤ්ඤය"
+    },
+    "et": {
+        "code": "EE",
+        "native": "Eesti",
+        "localized": "එස්තෝනියාව"
+    },
+    "eu": {
+        "code": "ES",
+        "native": "Espainia",
+        "localized": "ස්පාඤ්ඤය"
+    },
+    "fa": {
+        "code": "IR",
+        "native": "ایران",
+        "localized": "ඉරානය"
+    },
+    "fi": {
+        "code": "FI",
+        "native": "Suomi",
+        "localized": "ෆින්ලන්තය"
+    },
+    "fil": {
+        "code": "PH",
+        "native": "Pilipinas",
+        "localized": "පිලිපීනය"
+    },
+    "fr": {
+        "code": "FR",
+        "native": "France",
+        "localized": "ප්‍රංශය"
+    },
+    "gl": {
+        "code": "ES",
+        "native": "España",
+        "localized": "ස්පාඤ්ඤය"
+    },
+    "gu": {
+        "code": "IN",
+        "native": "ભારત",
+        "localized": "ඉන්දියාව"
+    },
+    "he": {
+        "code": "IL",
+        "native": "ישראל",
+        "localized": "ඊශ්‍රායලය"
+    },
+    "hi": {
+        "code": "IN",
+        "native": "भारत",
+        "localized": "ඉන්දියාව"
+    },
+    "hr": {
+        "code": "HR",
+        "native": "Hrvatska",
+        "localized": "ක්‍රොඒෂියාව"
+    },
+    "hu": {
+        "code": "HU",
+        "native": "Magyarország",
+        "localized": "හන්ගේරියාව"
+    },
+    "hy": {
+        "code": "AM",
+        "native": "Հայաստան",
+        "localized": "ආර්මේනියාව"
+    },
+    "id": {
+        "code": "ID",
+        "native": "Indonesia",
+        "localized": "ඉන්දුනීසියාව"
+    },
+    "is": {
+        "code": "IS",
+        "native": "Ísland",
+        "localized": "අයිස්ලන්තය"
+    },
+    "it": {
+        "code": "IT",
+        "native": "Italia",
+        "localized": "ඉතාලිය"
+    },
+    "ja": {
+        "code": "JP",
+        "native": "日本",
+        "localized": "ජපානය"
+    },
+    "ka": {
+        "code": "GE",
+        "native": "საქართველო",
+        "localized": "ජෝර්ජියාව"
+    },
+    "kk": {
+        "code": "KZ",
+        "native": "Қазақстан",
+        "localized": "කසකස්තානය"
+    },
+    "km": {
+        "code": "KH",
+        "native": "កម្ពុជា",
+        "localized": "කාම්බෝජය"
+    },
+    "kn": {
+        "code": "IN",
+        "native": "ಭಾರತ",
+        "localized": "ඉන්දියාව"
+    },
+    "ko": {
+        "code": "KR",
+        "native": "대한민국",
+        "localized": "දකුණු කොරියාව"
+    },
+    "lt": {
+        "code": "LT",
+        "native": "Lietuva",
+        "localized": "ලිතුවේනියාව"
+    },
+    "lv": {
+        "code": "LV",
+        "native": "Latvija",
+        "localized": "ලැට්වියාව"
+    },
+    "mk": {
+        "code": "MK",
+        "native": "Северна Македонија",
+        "localized": "උතුරු මැසිඩෝනියාව"
+    },
+    "mn": {
+        "code": "MN",
+        "native": "Монгол",
+        "localized": "මොන්ගෝලියාව"
+    },
+    "mr": {
+        "code": "IN",
+        "native": "भारत",
+        "localized": "ඉන්දියාව"
+    },
+    "ms": {
+        "code": "MY",
+        "native": "Malaysia",
+        "localized": "මැලේසියාව"
+    },
+    "nb": {
+        "code": "NO",
+        "native": "Norge",
+        "localized": "නෝර්වේ"
+    },
+    "ne": {
+        "code": "NP",
+        "native": "नेपाल",
+        "localized": "නේපාලය"
+    },
+    "nl": {
+        "code": "NL",
+        "native": "Nederland",
+        "localized": "නෙදර්ලන්තය"
+    },
+    "nn": {
+        "code": "NO",
+        "native": "Noreg",
+        "localized": "නෝර්වේ"
+    },
+    "oc": {
+        "code": "FR",
+        "native": "Fr",
+        "localized": "ප්‍රංශය"
+    },
+    "pl": {
+        "code": "PL",
+        "native": "Polska",
+        "localized": "පෝලන්තය"
+    },
+    "ps": {
+        "code": "AF",
+        "native": "افغانستان",
+        "localized": "ඇෆ්ගනිස්ථානය"
+    },
+    "pt": {
+        "code": "BR",
+        "native": "Brasil",
+        "localized": "බ්‍රසීලය"
+    },
+    "pt_BR": {
+        "code": "BR",
+        "native": "Brasil",
+        "localized": "බ්‍රසීලය"
+    },
+    "ro": {
+        "code": "RO",
+        "native": "România",
+        "localized": "රුමේනියාව"
+    },
+    "ru": {
+        "code": "RU",
+        "native": "Россия",
+        "localized": "රුසියාව"
+    },
+    "sc": {
+        "code": "IT",
+        "native": "Itàlia",
+        "localized": "ඉතාලිය"
+    },
+    "si": {
+        "code": "LK",
+        "native": "ශ්‍රී ලංකාව",
+        "localized": "ශ්‍රී ලංකාව"
+    },
+    "sk": {
+        "code": "SK",
+        "native": "Slovensko",
+        "localized": "ස්ලෝවැකියාව"
+    },
+    "sl": {
+        "code": "SI",
+        "native": "Slovenija",
+        "localized": "ස්ලෝවේනියාව"
+    },
+    "sq": {
+        "code": "AL",
+        "native": "Shqipëri",
+        "localized": "ඇල්බේනියාව"
+    },
+    "sr_Cyrl": {
+        "code": "RS",
+        "native": "Србија",
+        "localized": "සර්බියාව"
+    },
+    "sr_Latn": {
+        "code": "RS",
+        "native": "Srbija",
+        "localized": "සර්බියාව"
+    },
+    "sr_Latn_ME": {
+        "code": "ME",
+        "native": "Crna Gora",
+        "localized": "මොන්ටෙනීග්‍රෝ"
+    },
+    "sv": {
+        "code": "SE",
+        "native": "Sverige",
+        "localized": "ස්වීඩනය"
+    },
+    "sw": {
+        "code": "TZ",
+        "native": "Tanzania",
+        "localized": "ටැන්සානියාව"
+    },
+    "tg": {
+        "code": "TJ",
+        "native": "Тоҷикистон",
+        "localized": "ටජිකිස්තානය"
+    },
+    "th": {
+        "code": "TH",
+        "native": "ไทย",
+        "localized": "තායිලන්තය"
+    },
+    "tk": {
+        "code": "TM",
+        "native": "Türkmenistan",
+        "localized": "ටර්ක්මෙනිස්ථානය"
+    },
+    "tl": {
+        "code": "PH",
+        "native": "Philippines",
+        "localized": "පිලිපීනය"
+    },
+    "tr": {
+        "code": "TR",
+        "native": "Türkiye",
+        "localized": "තුර්කිය"
+    },
+    "ug": {
+        "code": "CN",
+        "native": "جۇڭگو",
+        "localized": "චීනය"
+    },
+    "uk": {
+        "code": "UA",
+        "native": "Україна",
+        "localized": "යුක්රේනය"
+    },
+    "ur": {
+        "code": "PK",
+        "native": "پاکستان",
+        "localized": "පාකිස්තානය"
+    },
+    "uz_Cyrl": {
+        "code": "UZ",
+        "native": "Ўзбекистон",
+        "localized": "උස්බෙකිස්ථානය"
+    },
+    "uz_Latn": {
+        "code": "UZ",
+        "native": "Oʻzbekiston",
+        "localized": "උස්බෙකිස්ථානය"
+    },
+    "vi": {
+        "code": "VN",
+        "native": "Việt Nam",
+        "localized": "වියට්නාමය"
+    },
+    "zh_CN": {
+        "code": "CN",
+        "native": "中国",
+        "localized": "චීනය"
+    },
+    "zh_HK": {
+        "code": "HK",
+        "native": "中国香港特别行政区",
+        "localized": "හොංකොං විශේෂ පරිපාලන කලාපය චීනය"
+    },
+    "zh_TW": {
+        "code": "TW",
+        "native": "台湾",
+        "localized": "තායිවානය"
+    }
+}
