@@ -526,12 +526,12 @@ it('should check the returned list in French')
         ],
         'sr_Latn' => [
             'code'      => 'RS',
-            'native'    => 'Srbija',
+            'native'    => 'Serbia',
             'localized' => 'Serbie',
         ],
         'sr_Latn_ME' => [
             'code'      => 'ME',
-            'native'    => 'Crna Gora',
+            'native'    => 'Montenegro',
             'localized' => 'Monténégro',
         ],
         'su' => [
@@ -611,7 +611,7 @@ it('should check the returned list in French')
         ],
         'uz_Cyrl' => [
             'code'      => 'UZ',
-            'native'    => 'Ўзбекистон',
+            'native'    => 'Uzbekistan',
             'localized' => 'Ouzbékistan',
         ],
         'uz_Latn' => [
@@ -1161,12 +1161,12 @@ it('should check the returned list in Ukrainian')
         ],
         'sr_Latn' => [
             'code'      => 'RS',
-            'native'    => 'Srbija',
+            'native'    => 'Serbia',
             'localized' => 'Сербія',
         ],
         'sr_Latn_ME' => [
             'code'      => 'ME',
-            'native'    => 'Crna Gora',
+            'native'    => 'Montenegro',
             'localized' => 'Чорногорія',
         ],
         'su' => [
@@ -1246,7 +1246,7 @@ it('should check the returned list in Ukrainian')
         ],
         'uz_Cyrl' => [
             'code'      => 'UZ',
-            'native'    => 'Ўзбекистон',
+            'native'    => 'Uzbekistan',
             'localized' => 'Узбекистан',
         ],
         'uz_Latn' => [
