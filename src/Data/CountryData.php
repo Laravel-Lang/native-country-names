@@ -25,7 +25,8 @@ class CountryData implements Arrayable
         public string $code,
         public string $native,
         public string $localized
-    ) {}
+    ) {
+    }
 
     public function toArray(): array
     {
