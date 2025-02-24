@@ -23,7 +23,7 @@
          colors="true"
          processIsolation="false"
          stopOnError="true"
-         stopOnFailure="false"
+         stopOnFailure="true"
 >
     <php>
         <env name="APP_KEY" value="AckfSECXIvnK5r28GVIWUAxmbBSjTsmF" />
