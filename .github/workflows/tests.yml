@@ -36,4 +36,4 @@ jobs:
                 run: composer require laravel/framework:^${{ matrix.laravel }}
 
             -   name: Execute tests
-                run: composer test
+                run: vendor/bin/pest --compact
