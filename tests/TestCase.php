@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 /**
  * This file is part of the "laravel-lang/native-country-names" project.
  *
@@ -17,6 +19,4 @@ namespace Tests;
 
 use PHPUnit\Framework\TestCase as BaseTestCase;
 
-abstract class TestCase extends BaseTestCase
-{
-}
+abstract class TestCase extends BaseTestCase {}
