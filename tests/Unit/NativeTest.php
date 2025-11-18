@@ -890,10 +890,10 @@ it('should check the returned list in Ukrainian')
             'localized' => 'Хорватія',
         ],
         'ht' => [
-    'code' => 'HT',
-    'native' => 'Haïti',
-    'localized' => 'Гаїті',
-],
+            'code'      => 'HT',
+            'native'    => 'Haïti',
+            'localized' => 'Гаїті',
+        ],
         'hu' => [
             'code'      => 'HU',
             'native'    => 'Magyarország',
