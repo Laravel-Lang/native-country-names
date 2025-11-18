@@ -244,6 +244,11 @@ it('should check the returned list in French')
             'native'    => 'Hrvatska',
             'localized' => 'Croatie',
         ],
+        'ht' => [
+            'code'      => 'HT',
+            'native'    => 'Haïti',
+            'localized' => 'Haïti',
+        ],
         'hu' => [
             'code'      => 'HU',
             'native'    => 'Magyarország',
@@ -884,6 +889,11 @@ it('should check the returned list in Ukrainian')
             'native'    => 'Hrvatska',
             'localized' => 'Хорватія',
         ],
+        'ht' => [
+    'code' => 'HT',
+    'native' => 'Haïti',
+    'localized' => 'Гаїті',
+],
         'hu' => [
             'code'      => 'HU',
             'native'    => 'Magyarország',
