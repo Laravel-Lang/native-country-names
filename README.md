@@ -1,6 +1,6 @@
 # Native Country Names
 
-![laravel-lang native country names](https://preview.dragon-code.pro/laravel-lang/native-country-names.svg?brand=laravel&mode=dark)
+![laravel-lang native country names](https://banners.beyondco.de/Native%20Country%20Names.png?theme=light&packageManager=composer+require&packageName=laravel-lang%2Fnative-country-names&pattern=topography&style=style_2&description=by+Laravel+Lang&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
 [![Stable Version][badge_stable]][link_packagist]
 [![Unstable Version][badge_unstable]][link_packagist]
