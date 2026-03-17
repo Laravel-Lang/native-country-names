@@ -28,9 +28,7 @@ class CountryNames
 {
     public static string $default = '_native';
 
-    /**
-     * @return Collection<CountryData>
-     */
+    /** @return Collection<CountryData> */
     public static function get(BackedEnum|string|null $locale = null, SortBy $sortBy = SortBy::None): Collection
     {
         if ($locale = static::locale($locale)) {
