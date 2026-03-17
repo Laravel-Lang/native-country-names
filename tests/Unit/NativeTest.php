@@ -124,6 +124,11 @@ it('should check the returned list in French')
             'native'    => 'Deutschland',
             'localized' => 'Allemagne',
         ],
+        'de_AT' => [
+            'code'      => 'AT',
+            'native'    => 'Österreich',
+            'localized' => 'Autriche',
+        ],
         'de_CH' => [
             'code'      => 'CH',
             'native'    => 'Schweiz',
@@ -768,6 +773,11 @@ it('should check the returned list in Ukrainian')
             'code'      => 'DE',
             'native'    => 'Deutschland',
             'localized' => 'Німеччина',
+        ],
+        'de_AT' => [
+            'code'      => 'AT',
+            'native'    => 'Österreich',
+            'localized' => 'Австрія',
         ],
         'de_CH' => [
             'code'      => 'CH',
